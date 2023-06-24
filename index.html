@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>To Do List</title>
+    <link rel="stylesheet" href="assets/reset.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <h2 class="header__title">Welcome back!</h2>
+        <p class="header__date">Today is <span id="current-date"></span>.</p>
+        <nav class="header__links">
+          <a href="https://github.com/anamolinari" class="social__link" id="github" target="_blank">GitHub</a>
+          <a href="https://www.linkedin.com/in/anahmolinari/" class="social__link" id="linkedin" target="_blank">LinkedIn</a>
+        </nav>
+      </header>
+
+    <section class="main__section">
+        <h1 class="title">
+            <span class="emoji">&#x2600;</span>
+            Today
+        </h1>
+
+        <button class="add__button">Add item</button>
+
+        <div class="todo__list"></div>
+
+        <div class="completed__list"></div>
+
+        <button class="complete__button"></button>
+
+        <img src="assets/Capa_1.svg" alt="Sleeping cat image" id="image-container" class="cat__image">
+        <p class="text">Nothing to see here...</p>
+    </section>
+
+    <script src="main.js"></script>
+</body>
+</html>
