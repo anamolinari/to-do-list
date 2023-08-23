@@ -43,7 +43,7 @@ In addition to the basic functionalities of adding, updating, and removing tasks
 ## Application
 
 <div align="center">
-<img width="1899" alt="to-do-list-ana-molinari" src="https://github.com/anamolinari/to-do-list/assets/121121296/1c5ede7f-c3d4-4b8b-9886-ba65362cc3a0">
+<img width="1428" alt="Captura de Tela 2023-08-23 às 15 14 04" src="https://github.com/anamolinari/to-do-list/assets/121121296/8ff313bd-d3ff-498b-8b46-2b2fcb79f59c">
 </div>
 
 ###
