@@ -2,22 +2,10 @@
 
 <p align="center">
 Personal project developed to create my portfolio as a front-end developer.
-  
-### Topics 
 
-- [Project description](#project-description)
-
-- [Features](#features)
-
-- [Application](#application)
-
-- [Tools used](#tools-used)
-
-- [Projet access](#project-access)
-
-- [Leave your comment](#leave-your-comment)
-
-- [Developer](#developer)
+<div align="center">
+<img width="1428" alt="Captura de Tela 2023-08-23 às 15 14 04" src="https://github.com/anamolinari/to-do-list/assets/121121296/8ff313bd-d3ff-498b-8b46-2b2fcb79f59c">
+</div>
 
 ## Project description
 
@@ -30,26 +18,13 @@ In addition to the basic functionalities of adding, updating, and removing tasks
 
 ## Features
 
-:heavy_check_mark: Feature 1: Add new tasks to the list
-
-:heavy_check_mark: Feature 2: Update information of existing tasks
-
-:heavy_check_mark: Feature 3: Mark tasks as completed
-
-:heavy_check_mark: Feature 4: Remove tasks from the list
-
-:heavy_check_mark: Feature 5: Hide and show completed tasks with the "Hide/Show completed tasks" button.
-
-## Application
-
-<div align="center">
-<img width="1428" alt="Captura de Tela 2023-08-23 às 15 14 04" src="https://github.com/anamolinari/to-do-list/assets/121121296/8ff313bd-d3ff-498b-8b46-2b2fcb79f59c">
-</div>
-
-###
+- Add new tasks to the list
+- Update information of existing tasks
+- Mark tasks as completed
+- Remove tasks from the list
+- Hide and show completed tasks with the "Hide/Show completed tasks" button.
 
 ## Tools used
-
 - HTML, CSS, and JavaScript for the structure, style, and interaction of the application.
 - Google Fonts for font styling.
 - Google Fonts API for importing custom fonts.
@@ -59,17 +34,9 @@ In addition to the basic functionalities of adding, updating, and removing tasks
 
 ## Project access
 
-To access the source code of the project, [click here](guess-the-number-vert.vercel.app).
+To access the project's source code, please [click here](https://anamolinari.github.io/to-do-list/).
 
-## Leave your comment
-
-I am just starting out in the development field and this was my first complete project, using HTML, CSS, and JAVASCRIPT. If you're interested, you can:
-
-- Report bugs
-- Suggest new features
-- Help with documentation
-
-Just access the project's repository on GitHub and follow the contribution guidelines.
+Additionally, you can review the layout on Figma by [clicking here](https://www.figma.com/file/vtgFKTqla4wedJZ9qXEuVI/To-Do-App?type=design&node-id=0%3A1&mode=dev&t=FbFnlFTJyJ8idk8e-1).
 
 ## Developer
 [Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
