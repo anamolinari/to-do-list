@@ -23,6 +23,7 @@ In addition to the basic functionalities of adding, updating, and removing tasks
 - Mark tasks as completed
 - Remove tasks from the list
 - Hide and show completed tasks with the "Hide/Show completed tasks" button.
+- Display current day of the week and date through an integrated API.
 
 ## Tools used
 - HTML, CSS, and JavaScript for the structure, style, and interaction of the application.
