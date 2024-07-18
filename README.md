@@ -4,7 +4,7 @@
 Personal project developed to create my portfolio as a front-end developer.
 
 <div align="center">
-<img width="1428" alt="Captura de Tela 2023-08-23 às 15 14 04" src="https://github.com/anamolinari/to-do-list/assets/121121296/8ff313bd-d3ff-498b-8b46-2b2fcb79f59c">
+<img src="https://i.imgur.com/wzWpdpN.gif">
 </div>
 
 ## Project description
