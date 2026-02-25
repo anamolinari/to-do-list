@@ -41,6 +41,16 @@ Pixel-perfect implementation of a Figma design, built with vanilla HTML, CSS, an
 
 ---
 
+## Getting Started
+
+Clone the repository and open `index.html` in your browser — no dependencies required.
+
+```bash
+git clone https://github.com/anamolinari/to-do-list.git
+```
+
+---
+
 ## Developer
 
 Developed by [Ana Molinari](https://www.linkedin.com/in/anahmolinari/)
